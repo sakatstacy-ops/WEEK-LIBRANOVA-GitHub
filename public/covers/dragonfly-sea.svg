@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 500">
+  <defs><linearGradient id="sea" x2="0" y2="1"><stop stop-color="#e8c17c"/><stop offset=".38" stop-color="#65a5a2"/><stop offset="1" stop-color="#234d60"/></linearGradient></defs>
+  <path fill="url(#sea)" d="M0 0h380v500H0z"/>
+  <circle cx="280" cy="117" r="43" fill="#fff0c3"/>
+  <path fill="#f2d89e" d="M0 244c69 8 130 21 190 0s123-12 190 4v30c-65-16-126-24-190-2S62 294 0 281z"/>
+  <path fill="#4d928f" d="M0 300c63-18 129-9 190 9 71-23 127-22 190-4v195H0z"/>
+  <path fill="#286579" d="M0 378c72-21 132-3 190 14 66-26 128-17 190 4v104H0z"/>
+  <path fill="none" stroke="#bce0ce" stroke-width="5" d="M24 338c48-9 79-8 119 3m71-9c46-9 82-9 131 1M45 421c36-5 65-3 96 5m99 5c35-8 65-9 103-2"/>
+  <path fill="#385a49" d="M92 259h60l-6-28h-49z"/>
+  <path fill="#587257" d="M104 230c-2-35 11-56 31-68 1 32-7 52-25 68z"/>
+</svg>

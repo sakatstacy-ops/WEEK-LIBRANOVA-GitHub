@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 500">
+  <defs><linearGradient id="dustsky" x2="0" y2="1"><stop stop-color="#c88a69"/><stop offset=".52" stop-color="#e7c186"/><stop offset="1" stop-color="#a66751"/></linearGradient></defs>
+  <path fill="url(#dustsky)" d="M0 0h380v500H0z"/>
+  <circle cx="277" cy="104" r="44" fill="#f5dba7"/>
+  <path fill="#8d5749" d="m0 305 58-87 44 49 65-121 71 105 53-73 89 112v210H0z"/>
+  <path fill="#4a4b41" d="m0 353 88-48 77 19 82-47 133 60v163H0z"/>
+  <g fill="#c18a61" opacity=".78"><circle cx="52" cy="137" r="4"/><circle cx="116" cy="98" r="3"/><circle cx="196" cy="161" r="4"/><circle cx="332" cy="204" r="5"/><circle cx="73" cy="279" r="3"/><circle cx="295" cy="72" r="3"/></g>
+  <path fill="none" stroke="#dfb576" stroke-width="3" d="M0 419c80-24 131-2 187 8s117 8 193-19"/>
+</svg>

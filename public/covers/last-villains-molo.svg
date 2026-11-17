@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 500">
+  <defs><linearGradient id="city" x2="0" y2="1"><stop stop-color="#f1b66f"/><stop offset=".48" stop-color="#bd6f55"/><stop offset="1" stop-color="#354451"/></linearGradient></defs>
+  <path fill="url(#city)" d="M0 0h380v500H0z"/>
+  <circle cx="285" cy="111" r="37" fill="#ffe1a0"/>
+  <g fill="#263b45">
+    <path d="M0 238h70v262H0zM75 186h75v314H75zM157 224h61v276h-61zM226 156h76v344h-76zM309 207h71v293h-71z"/>
+  </g>
+  <g fill="#e1ae6d">
+    <path d="M15 262h13v23H15zm31 0h13v23H46zm34-42h14v24H80zm36 0h14v24h-14zm-36 43h14v24H80zm36 0h14v24h-14zm56-17h13v24h-13zm34 0h13v24h-13zm36-57h14v24h-14zm38 0h14v24h-14zm-38 58h14v24h-14zm38 0h14v24h-14zm39 22h13v24h-13zm32 0h13v24h-13z"/>
+  </g>
+  <path fill="#1e303a" d="M0 424h380v76H0z"/>
+  <path fill="none" stroke="#f7d796" stroke-width="4" d="M0 448h380m-233 52 18-52m-60 52-14-52"/>
+</svg>

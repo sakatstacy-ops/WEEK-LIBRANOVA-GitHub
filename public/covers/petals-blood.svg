@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 500">
+  <defs><linearGradient id="night" x2="0" y2="1"><stop stop-color="#293b3a"/><stop offset="1" stop-color="#6e343d"/></linearGradient></defs>
+  <path fill="url(#night)" d="M0 0h380v500H0z"/>
+  <circle cx="275" cy="111" r="42" fill="#e9b77d"/>
+  <path fill="#3c5447" d="M0 344c69-50 128-17 190-56 55-35 111-22 190 5v207H0z"/>
+  <path fill="#232f30" d="M0 405c77-29 125-14 189-35 57-19 122-12 191 6v124H0z"/>
+  <g fill="#c74f53">
+    <path d="M94 164c-32-37-4-60 19-33 10-35 44-22 28 13 40-6 44 31 4 35 25 31-4 54-25 20-21 35-54 15-24-16-35 5-43-31-2-36z"/>
+    <path d="M250 269c-26-30-3-47 15-26 8-28 35-18 22 10 32-5 35 25 3 28 20 24-3 43-20 16-17 28-43 12-19-13-28 4-34-25-1-29z"/>
+  </g>
+  <path fill="none" stroke="#d58a70" stroke-width="3" d="M108 208c11 37 26 74 50 115m84-51c-11 24-16 45-17 70"/>
+</svg>

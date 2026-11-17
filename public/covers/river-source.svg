@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 500">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#f0c77b"/><stop offset="1" stop-color="#e98f62"/></linearGradient>
+    <linearGradient id="river" x2="0" y2="1"><stop stop-color="#5a9a91"/><stop offset="1" stop-color="#193f49"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h380v500H0z"/>
+  <circle cx="276" cy="111" r="52" fill="#fff0bd"/>
+  <path fill="#9e684c" d="m0 264 86-88 68 67 83-117 143 145v229H0z"/>
+  <path fill="#536e55" d="m0 300 92-66 61 47 105-83 122 95v207H0z"/>
+  <path fill="url(#river)" d="M142 267c70 47 10 101 81 146 40 25 61 52 45 87H88c68-46 44-86 7-124 38-41 13-72 47-109z"/>
+  <path fill="#e8c277" d="M0 452h380v48H0z"/>
+  <path fill="none" stroke="#f6db9d" stroke-width="5" d="M0 462h100m195 0h85"/>
+</svg>

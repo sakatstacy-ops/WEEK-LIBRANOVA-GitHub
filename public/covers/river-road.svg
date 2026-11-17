@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 500">
+  <defs><linearGradient id="roadsky" x2="0" y2="1"><stop stop-color="#d7a06c"/><stop offset=".52" stop-color="#816b5a"/><stop offset="1" stop-color="#313e3e"/></linearGradient></defs>
+  <path fill="url(#roadsky)" d="M0 0h380v500H0z"/>
+  <circle cx="98" cy="119" r="45" fill="#f0d29a" opacity=".82"/>
+  <path fill="#293c3d" d="M0 295h380v205H0z"/>
+  <path fill="#b68b5c" d="m155 500 55-205h20l58 205z"/>
+  <path fill="#5a5143" d="M0 293h136v13H0zm244 0h136v13H244z"/>
+  <g fill="#d7bb88">
+    <path d="M36 232h78v61H36zM47 196h58v36H47zM278 224h66v69h-66zM286 188h49v36h-49z"/>
+  </g>
+  <g fill="#3d4943">
+    <path d="M58 212h12v21H58zm26 0h12v21H84zm209 37h12v22h-12zm23 0h12v22h-12z"/>
+  </g>
+  <path fill="#d4b678" d="M0 315h380v8H0z"/>
+  <path fill="none" stroke="#f3d394" stroke-width="3" stroke-dasharray="14 14" d="m190 325-14 175"/>
+</svg>
